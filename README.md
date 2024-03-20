@@ -15,6 +15,6 @@ Welcome to VCF2ClinicalReport, your go-to solution for converting Variant Call F
 7. **Functional Annotation Tools**: Utilize GATK Funcotator and InterVar, along with ANNOVAR, for functional annotation and ACMG interpretation, enriching your analyses.
 8. **Base Reference Genome**: Utilize hg38 as the base reference human genome for accurate variant annotation.
 
-## Note: VCF2ClinicalReport provides the flexibility to adjust the number of associated SNPs and annotation types, streamlining reporting while managing large datasets effectively.
-
-## Unlock deeper insights into genetic variants and streamline your clinical workflows with VCF2ClinicalReport. Happy analyzing! 🧬💻
+## Note: 
+VCF2ClinicalReport provides the flexibility to adjust the number of associated SNPs and annotation types, streamlining reporting while managing large datasets effectively.
+Unlock deeper insights into genetic variants and streamline your clinical workflows with VCF2ClinicalReport. Happy analyzing! 🧬💻
